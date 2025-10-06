@@ -1,0 +1,4 @@
+Average Daily Return: -0.20%
+Volatility(Risk Level): 2.85%
+Max Daily Return: 15.89%
+Max Daily Loss: -19.80%
